@@ -57,7 +57,7 @@ exports.findById = (req, res) => {
 };
 
 exports.findByName = (req, res) => {
-    Breed.find({"name": { $regex: '.*' + req.params.breedName + '.*' }})
+    Breed.find({"name": { '$regex': new RegExp(req.params.breedName, "i"), '$options': 'i' }})
     .then(breed => {
         if(!breed) {
             return res.status(404).send({
