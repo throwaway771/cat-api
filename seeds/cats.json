@@ -1,0 +1,55 @@
+[{
+        "name": "American Bobtail",
+        "description": "Short/long coat",
+        "temperament": "Towering",
+        "origin": "Mutation"
+    },
+    {
+        "name": "American Shorthair",
+        "description": "Short coat",
+        "temperament": "Troubled",
+        "origin": "Natural"
+    },
+    {
+        "name": "Bengal",
+        "description": "Spotted, marbled, or rosetted",
+        "temperament": "Tough",
+        "origin": "Hybrid"
+    },
+    {
+        "name": "Cyprus",
+        "description": "Lean and muscular",
+        "temperament": "Harmonious",
+        "origin": "Natural"
+    },
+    {
+        "name": "Maine Coon",
+        "description": "Large",
+        "temperament": "Onerous",
+        "origin": "Natural"
+    },
+    {
+        "name": "Persian",
+        "description": "Cobby coat",
+        "temperament": "Elegant",
+        "origin": "Mutation"
+    },
+    {
+        "name": "Singapura",
+        "description": "Short coat",
+        "temperament": "Short",
+        "origin": "Crossbreed"
+    },
+    {
+        "name": "Tonkinese",
+        "description": "Short coat",
+        "temperament": "Disillusioned",
+        "origin": "Crossbreed"
+    },
+    {
+        "name": "Ukrainian Levkoy",
+        "description": "Hairless",
+        "temperament": "Aware",
+        "origin": "Natural"
+    }
+]
